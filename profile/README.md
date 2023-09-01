@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">  
-  <img src="./delta.png" width="30%">
+  <img src="https://github.com/DeltaUnicsul/.github/blob/main/profile/delta.png" width="30%">
 </div>
 
 <center> <h1> Seja bem vindo!</h1> </center>
