@@ -40,7 +40,7 @@ Além disso, a atlética irá lutar pela vontade de seus associados, somos mais 
 
 <center> <h1> Contribuidores/Associados </h1> </center>
 
-Como dito anteriormente, qualquer um pode fazer parte da Delta! Basta começar a engajar e então, criar um Pull Request ([veja como aqui](https://allcontributors.org/docs/en/emoji-key)) e adicionar seu perfil na lista abaixo. Você também pode ler mais sobre os [emojis](https://allcontributors.org/docs/pt-br/emoji-key) aqui.
+Como dito anteriormente, qualquer um pode fazer parte da Delta! Basta começar a engajar e então, criar um Pull Request ([veja como aqui](https://www.linkedin.com/pulse/como-gerar-seu-primeiro-pull-request-gabriel-morishita)) e adicionar seu perfil na lista abaixo. Você também pode ler mais sobre os [emojis](https://allcontributors.org/docs/pt-br/emoji-key) aqui.
 
 <table>
   <tbody>
