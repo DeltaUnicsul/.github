@@ -31,10 +31,21 @@ Estamos sempre abertos para novos associados, faça parte dessa história ao lad
 
 Além disso, a atlética irá lutar pela vontade de seus associados, somos mais do que estudantes, somos Delta! Cada um de nós será visto e reconhecido não como um número, mas sim como uma pessoa com capacidades, sonhos e objetivos. A Delta está disposta a te ajudar a alcançar todos esses aspectos da vida, juntando mentes e possibilitando elas a se unirem em um lugar onde todos tem voz para expressar seus conhecimentos livremente, ensinar e aprender com aquelas a sua volta e assim evoluir como pessoa.
 
-
 <center> <h1> Regras </h1> </center>
 
 - Respeito sempre em primeiro lugar.
 - Sinta-se livre para criar projetos, porém saiba que estão sujeitos a serem debatidos pela comunidade.
 - Ao contribuir com um projeto, lembre-se sempre de criar uma nova ramificação (branch) para que não prejudique outras pessoas do mesmo projeto.
 - Divirta-se e construa boas memórias conosco!
+
+<center> <h1> Contribuidores/Associados </h1> </center>
+
+Como dito anteriormente, qualquer um pode fazer parte da Delta! Basta começar a engajar e então, criar um Pull Request ([veja como aqui](https://allcontributors.org/docs/en/emoji-key)) e adicionar seu perfil na lista abaixo. Você também pode ler mais sobre os [emojis](https://allcontributors.org/docs/pt-br/emoji-key) aqui.
+
+<table>
+  <tbody>
+    <tr>
+      <!-- Insira aqui seu perfil -->
+    </tr>
+  </tbody>
+</table>
