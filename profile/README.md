@@ -45,7 +45,20 @@ Como dito anteriormente, qualquer um pode fazer parte da Delta! Basta começar a
 <table>
   <tbody>
     <tr>
-      <!-- Insira aqui seu perfil -->
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/Mourishitz">
+          <img src="https://avatars.githubusercontent.com/Mourishitz" width="100px;" alt="Gabriel Morishita"/>
+          <br />
+          <sub><b>Gabriel Morishita</b></sub>
+        </a>
+        <br />
+        <span title="Código">💻</span>
+        <span title="Conteúdo">🖋</span>
+        <span title="Documentação">📖</span>
+        <span title="Design">🎨</span>
+        <span title="Mentoria">🧑‍🏫</span>
+        <span title="Tutorial">✅</span>
+      </td>
     </tr>
   </tbody>
 </table>
